@@ -1,0 +1,282 @@
+[
+    {
+        "title": "Highway Facing Empty Land - 2 Acres",
+        "location": "Shadnagar, Telangana",
+        "city": "Shadnagar",
+        "state": "Telangana",
+        "price": 25000000,
+        "size": 2,
+        "size_unit": "acres",
+        "description": "Prime highway facing empty land. Ideal for commercial projects or investment. Clear title and immediate registration.",
+        "images": [
+            "/images/road_side_01.png"
+        ],
+        "land_type": "Commercial",
+        "status": "available",
+        "facing_direction": "East",
+        "road_width_feet": 100,
+        "is_clear_title": true,
+        "water_available": false,
+        "electricity_available": true
+    },
+    {
+        "title": "Fertile Red Soil Land for Agriculture",
+        "location": "Vikarabad, Telangana",
+        "city": "Vikarabad",
+        "state": "Telangana",
+        "price": 6000000,
+        "size": 1.5,
+        "size_unit": "acres",
+        "description": "Rich red soil agricultural land, recently plowed. Good for vegetables or seasonal crops. Peaceful rural location.",
+        "images": [
+            "/images/soiled_land_01.png"
+        ],
+        "land_type": "Agricultural",
+        "status": "available",
+        "facing_direction": "North",
+        "road_width_feet": 30,
+        "is_clear_title": true,
+        "water_available": true,
+        "electricity_available": true
+    },
+    {
+        "title": "Lush Green Paddy Field",
+        "location": "Amalapuram, Andhra Pradesh",
+        "city": "Amalapuram",
+        "state": "Andhra Pradesh",
+        "price": 3500000,
+        "size": 1,
+        "size_unit": "acres",
+        "description": "Beautiful paddy field with canal water facility. High yield land. Scenic location with coconut trees.",
+        "images": [
+            "/images/agri_land_v3.png"
+        ],
+        "land_type": "Agricultural",
+        "status": "available",
+        "facing_direction": "East",
+        "road_width_feet": 20,
+        "is_clear_title": true,
+        "water_available": true,
+        "electricity_available": true
+    },
+    {
+        "title": "Open Residential Plot in Developing Area",
+        "location": "Yadagirigutta, Telangana",
+        "city": "Yadagirigutta",
+        "state": "Telangana",
+        "price": 1800000,
+        "size": 200,
+        "size_unit": "sq. yards",
+        "description": "Vacant residential plot in a fast-growing layout. DTCP approved. surrounded by new constructions.",
+        "images": [
+            "/images/empty_land_01.png"
+        ],
+        "land_type": "Residential",
+        "status": "available",
+        "facing_direction": "East",
+        "road_width_feet": 33,
+        "is_clear_title": true,
+        "water_available": true,
+        "electricity_available": true
+    },
+    {
+        "title": "Premium Roadside Plot near ORR",
+        "location": "Patancheru, Hyderabad, Telangana",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "price": 8500000,
+        "size": 300,
+        "size_unit": "sq. yards",
+        "description": "Excellent connectivity to ORR. Roadside plot suitable for mixed use. High appreciation potential.",
+        "images": [
+            "/images/road_side_02.png"
+        ],
+        "land_type": "Residential",
+        "status": "available",
+        "facing_direction": "West",
+        "road_width_feet": 60,
+        "is_clear_title": true,
+        "water_available": true,
+        "electricity_available": true
+    },
+    {
+        "title": "Large Agricultural Farm Land",
+        "location": "Kothapeta, East Godavari, Andhra Pradesh",
+        "city": "East Godavari",
+        "state": "Andhra Pradesh",
+        "price": 19400000,
+        "size": 2.42,
+        "size_unit": "acres",
+        "description": "Highly fertile agricultural land. Paddy is being cultivated presently. Located 1km from the highway.",
+        "images": [
+            "/images/agri_01.jpg"
+        ],
+        "land_type": "Agricultural",
+        "status": "available",
+        "facing_direction": "North",
+        "road_width_feet": 20,
+        "is_clear_title": true,
+        "water_available": true,
+        "electricity_available": false
+    },
+    {
+        "title": "Cotton Field with Black Soil",
+        "location": "Adilabad, Telangana",
+        "city": "Adilabad",
+        "state": "Telangana",
+        "price": 1200000,
+        "size": 3,
+        "size_unit": "acres",
+        "description": "Productive cotton field with rich black cotton soil. Ideal for cash crops. Near market yard.",
+        "images": [
+            "/images/agri_land_v4.png"
+        ],
+        "land_type": "Agricultural",
+        "status": "available",
+        "facing_direction": "South",
+        "road_width_feet": 25,
+        "is_clear_title": true,
+        "water_available": true,
+        "electricity_available": false
+    },
+    {
+        "title": "Vacant Corner Plot in Gated Community",
+        "location": "Kankipadu, Vijayawada, Andhra Pradesh",
+        "city": "Vijayawada",
+        "state": "Andhra Pradesh",
+        "price": 4500000,
+        "size": 220,
+        "size_unit": "sq. yards",
+        "description": "Corner bit in a premium venture. Ready for construction. Clear boundaries.",
+        "images": [
+            "/images/empty_land_02.png"
+        ],
+        "land_type": "Residential",
+        "status": "available",
+        "facing_direction": "South-East",
+        "road_width_feet": 40,
+        "is_clear_title": true,
+        "water_available": true,
+        "electricity_available": true
+    },
+    {
+        "title": "Plowed Farm Land - 5 Acres",
+        "location": "Tholukodu, Andhra Pradesh",
+        "city": "Tholukodu",
+        "state": "Andhra Pradesh",
+        "price": 28000000,
+        "size": 5,
+        "size_unit": "acres",
+        "description": "Large single bit of plowed land. Excellent soil quality for commercial crops. Water facility available.",
+        "images": [
+            "/images/soiled_land_02.png"
+        ],
+        "land_type": "Agricultural",
+        "status": "available",
+        "facing_direction": "East",
+        "road_width_feet": 30,
+        "is_clear_title": true,
+        "water_available": true,
+        "electricity_available": false
+    },
+    {
+        "title": "Productive Mango Orchard",
+        "location": "Nuzvid, Andhra Pradesh",
+        "city": "Nuzvid",
+        "state": "Andhra Pradesh",
+        "price": 5000000,
+        "size": 2.5,
+        "size_unit": "acres",
+        "description": "Well-maintained mango orchard with 5-year-old trees. Good annual yield. Fenced property.",
+        "images": [
+            "/images/agri_land_v5.png"
+        ],
+        "land_type": "Agricultural",
+        "status": "available",
+        "facing_direction": "West",
+        "road_width_feet": 30,
+        "is_clear_title": true,
+        "water_available": true,
+        "electricity_available": true
+    },
+    {
+        "title": "Residential Plot in Kaza, Guntur",
+        "location": "Kaza, Guntur, Andhra Pradesh",
+        "city": "Guntur",
+        "state": "Andhra Pradesh",
+        "price": 4980000,
+        "size": 166,
+        "size_unit": "sq. yards",
+        "description": "East Facing plot near Amaravati Inner Ring Road. Excellent investment with clear land view.",
+        "images": [
+            "/images/empty_land_03.png"
+        ],
+        "land_type": "Residential",
+        "status": "available",
+        "facing_direction": "East",
+        "road_width_feet": 30,
+        "is_clear_title": true,
+        "water_available": true,
+        "electricity_available": true
+    },
+    {
+        "title": "Agricultural Land in Kota",
+        "location": "Kota, Andhra Pradesh",
+        "city": "Kota",
+        "state": "Andhra Pradesh",
+        "price": 17182000,
+        "size": 7.81,
+        "size_unit": "acres",
+        "description": "Fertile agricultural land suitable for various crops. Located in a peaceful area.",
+        "images": [
+            "/images/land_real_01.jpg"
+        ],
+        "land_type": "Agricultural",
+        "status": "available",
+        "facing_direction": "North",
+        "road_width_feet": 20,
+        "is_clear_title": true,
+        "water_available": true,
+        "electricity_available": false
+    },
+    {
+        "title": "Commercial Road Facing Land",
+        "location": "Gannavaram, Vijayawada, Andhra Pradesh",
+        "city": "Vijayawada",
+        "state": "Andhra Pradesh",
+        "price": 15000000,
+        "size": 500,
+        "size_unit": "sq. yards",
+        "description": "Main road facing land near Airport. Best for commercial complex or warehouse.",
+        "images": [
+            "/images/road_side_03.png"
+        ],
+        "land_type": "Commercial",
+        "status": "available",
+        "facing_direction": "North",
+        "road_width_feet": 80,
+        "is_clear_title": true,
+        "water_available": true,
+        "electricity_available": true
+    },
+    {
+        "title": "10 Acre Estate in Vemireddipalle",
+        "location": "Vemireddipalle, Andhra Pradesh",
+        "city": "Vemireddipalle",
+        "state": "Andhra Pradesh",
+        "price": 28000000,
+        "size": 10,
+        "size_unit": "acres",
+        "description": "Large single bit 10-acre estate. Potential for farm house or resort.",
+        "images": [
+            "/images/agri_04.jpg"
+        ],
+        "land_type": "Agricultural",
+        "status": "available",
+        "facing_direction": "West",
+        "road_width_feet": 40,
+        "is_clear_title": true,
+        "water_available": true,
+        "electricity_available": true
+    }
+]
