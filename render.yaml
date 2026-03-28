@@ -3,7 +3,6 @@ services:
   - type: web
     name: landchat-backend
     env: node
-    plan: free
     rootDir: server
     buildCommand: npm install
     startCommand: node server.js
@@ -11,25 +10,24 @@ services:
       - key: NODE_ENV
         value: production
       - key: MONGO_URI
-        sync: false # User must set this in dashboard
+        sync: false
       - key: JWT_SECRET
         generateValue: true
       - key: GEMINI_API_KEY
-        sync: false # User must set this in dashboard
+        sync: false
 
-  # Frontend Static Site
+  # Frontend (served as Node app)
   - type: web
     name: landchat-frontend
-    env: static
-    plan: free
+    env: node
     buildCommand: npm install && npm run build
-    staticPublishPath: dist
+    startCommand: npm run preview
     envVars:
       - key: VITE_API_URL
-        sync: false # Set this to your deployed Backend URL (e.g. https://landchat-backend.onrender.com/api)
+        sync: false
       - key: VITE_SUPABASE_URL
-        sync: false # User must set this in dashboard
+        sync: false
       - key: VITE_SUPABASE_PUBLISHABLE_KEY
-        sync: false # User must set this in dashboard
+        sync: false
       - key: VITE_SUPABASE_PROJECT_ID
-        sync: false # User must set this in dashboard
+        sync: false
