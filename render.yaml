@@ -18,11 +18,12 @@ services:
         sync: false # User must set this in dashboard
 
   # Frontend Static Site
-  - type: static_site
+  - type: web
     name: landchat-frontend
+    env: static
     plan: free
     buildCommand: npm install && npm run build
-    publishDir: dist
+    staticPublishPath: dist
     envVars:
       - key: VITE_API_URL
         sync: false # Set this to your deployed Backend URL (e.g. https://landchat-backend.onrender.com/api)
