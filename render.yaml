@@ -18,9 +18,8 @@ services:
         sync: false # User must set this in dashboard
 
   # Frontend Static Site
-  - type: static
+  - type: static_site
     name: landchat-frontend
-    env: static
     plan: free
     buildCommand: npm install && npm run build
     publishDir: dist
